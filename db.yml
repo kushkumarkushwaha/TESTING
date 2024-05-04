@@ -1,3 +1,5 @@
 user kush
 
 password 12345
+
+dialect:MysqlDilaect
